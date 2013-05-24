@@ -1,0 +1,2 @@
+Sonic Foundry Mediasite Plugins
+===============================
